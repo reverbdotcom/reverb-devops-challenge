@@ -9,7 +9,7 @@ Clone the repo to get started. You can turn in the challenge by posting your sol
 ### The application has the following endpoints:
 
 #### /
-This is the application root. This route simply responds with 200 OK and 'Reverb.com rocks!' as the body. Once you get the app running, you should be able to `curl ip:port/` and get this response.
+This is the application root. This route simply responds with 200 OK and `Reverb.com rocks!` as the body. Once you get the app running, you should be able to `curl ip:port/` and get this response.
 
 #### /health
 
