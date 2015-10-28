@@ -8,9 +8,16 @@ Clone the repo to get started. You can turn in the challenge by posting your sol
 
 ## Requirements
 
+#### Getting started on your workstation:
+
 1. Vagrant
 2. Virtualbox
 3. ServerSpec plugin for Vagrant
+
+#### Server requirements
+1. The app has to be started on boot using a process manager(we use Runit but you can try God, Monit, Upstart, SupervisorD or whatever you please)
+2. The endpoints must match the requirements(see below)
+3. There should be no manual interaction required to get the application running.
 
 ### The application has the following endpoints:
 
