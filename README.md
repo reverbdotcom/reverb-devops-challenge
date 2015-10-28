@@ -11,7 +11,7 @@ This is the application root. This route simply responds with 200 OK and 'Reverb
 
 #### /health
 
-This route tests a connection dependency and it is failing by default. It is your responsibility to make this endpoint return a 200 response code and OK body.
+This route tests a connection dependency to Redis and it is failing by default. It is your responsibility to make this endpoint return a 200 response code and OK body by correcting the connection to Redis.
 
 #### /post
 
