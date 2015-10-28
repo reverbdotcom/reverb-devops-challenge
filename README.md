@@ -41,6 +41,8 @@ We expect you to deliver this no later than 7 days after receiving the challenge
 
 Included with this repository is a suite of serverspec tests. We expect to be able to run these tests and have them complete. Bonus points if you find other parts of the system we could be testing and include them with your solution.
 
+You can run these tests by executing `bundle exec rake spec`
+
 ## Deliverables
 
 We should be able to clone your repository or unpack your archive and simply run `vagrant up`. Our test suite should pass and there should be no manual process required to hit all three endpoints.
