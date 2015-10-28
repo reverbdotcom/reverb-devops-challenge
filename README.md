@@ -15,7 +15,7 @@ This route tests a connection dependency to Redis and it is failing by default. 
 
 #### /post
 
-This is an empty route and a bonus challenge if you're feeling up to it. This route should accept a post request and return the arguments as the response body. Super bonus points for returning the proper response code on successful post.
+This is an empty route and an optional requirement. This route should accept a post request and return the arguments as the response body. See if you can return a proper response code when a post is successfully made!
 
 ### Time
 Take your time. Research your solutions and be confident in your decisions. We'll have a discussion afterwards to talk about the whys of your decisions.
