@@ -6,6 +6,12 @@ In this repo we provide a Vagrantfile which can be used to spin up a local vagra
 
 Clone the repo to get started. You can turn in the challenge by posting your solution publicly on your github or by emailing us a tarball of your directory.
 
+## Requirements
+
+1. Vagrant
+2. Virtualbox
+3. ServerSpec plugin for Vagrant
+
 ### The application has the following endpoints:
 
 #### /
