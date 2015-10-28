@@ -4,21 +4,23 @@ The goal of this challenge is to get a toy application written in ruby running o
 
 In this repo we provide a Vagrantfile which can be used to spin up a local vagrant instance running Ubuntu 12.04. However, if you are more comfortable with AWS, DigitalOcean, Linode, Rackspace...etc, you're free to spin the app up there.
 
-The application has the following endpoints:
+### The application has the following endpoints:
 
 #### /
 This is the application root. This route simply responds with 200 OK and 'Reverb.com rocks!' as the body. Once you get the app running, you should be able to `curl ip:port/` and get this response.
 
-#### /health - returns 200 status code and OK when all prereqs are satisfied
+#### /health
 
 This route tests a connection dependency and it is failing by default. It is your responsibility to make this endpoint return a 200 response code and OK body.
 
 #### /post
 
-This is an empty route and a bonus challenge if you're feeling up to it. The goal is to be able to post any argument and return the value of the argument as the response body.
+This is an empty route and a bonus challenge if you're feeling up to it. This route should accept a post request and return the arguments as the response body. Super bonus points for returning the proper response code on successful post.
 
 ### Time
 Take your time. Research your solutions and be confident in your decisions. We'll have a discussion afterwards to talk about the whys of your decisions.
+
+We expect you to deliver this no later than 7 days after receiving the challenge.
 
 ### Running tests
 
