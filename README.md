@@ -50,4 +50,4 @@ If you don't decide to use the included Vagrantfile, send us an IP address of wh
 
 ## Help
 
-Please feel free to ask us any questions if you get yourself in a bind. We believe in a teaching/learning culture where everyone has the right and freedom to ask anything. No question is considered dumb, and we're not going to mark you for asking for help.
+Please feel free to ask us any questions if you get yourself in a bind. We believe in a teaching/learning culture where everyone has the right and freedom to ask anything. No question is considered dumb, and we're more than thrilled to have you asking for help.
