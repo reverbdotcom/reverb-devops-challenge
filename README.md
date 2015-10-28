@@ -17,7 +17,7 @@ Clone the repo to get started. You can turn in the challenge by posting your sol
 #### Server requirements
 1. The app has to be started on boot using a process manager(we use Runit but you can try God, Monit, Upstart, SupervisorD or whatever you please)
 2. The endpoints must match the requirements(see below)
-3. There should be no manual interaction required to get the application running. We should be able to `vagrant up` and `bundle exec rake spec`.
+3. There should be no manual interaction required to get the application running. We should be able to `vagrant up` and `bundle exec rake spec` to see your passing tests.
 
 ### The application has the following endpoints:
 
