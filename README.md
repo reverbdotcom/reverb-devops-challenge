@@ -33,9 +33,7 @@ This route tests a connection dependency to Redis and it is failing by default. 
 This is an empty route and an optional requirement. This route should accept a post request and return the arguments as the response body. See if you can return a proper response code when a post is successfully made!
 
 ### Time
-Take your time. Research your solutions and be confident in your decisions. We'll have a discussion afterwards to talk about the whys of your decisions.
-
-We expect you to deliver this no later than 7 days after receiving the challenge.
+We expect you to deliver this within 7 days. Delivering it earlier won’t have a huge impact — instead, take the time to research your solutions and be confident in your decisions
 
 ### Running tests
 
