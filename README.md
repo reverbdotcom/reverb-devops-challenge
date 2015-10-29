@@ -1,6 +1,6 @@
 # Reverb DevOps Challenge
 
-The goal of this challenge is to get a toy application written in ruby running on the infrastructure of your choice. This application is written in sinatra and requires a connection to Redis.
+The goal of this challenge is to get a toy application written in ruby running on the infrastructure of your choice. This application is written in [sinatra](http://www.sinatrarb.com/) and requires a connection to Redis.
 
 In this repo we provide a Vagrantfile which can be used to spin up a local vagrant instance running Ubuntu 12.04. However, if you are more comfortable with AWS, DigitalOcean, Linode, Rackspace...etc, you're free to spin the app up there.
 
@@ -12,7 +12,6 @@ Clone the repo to get started. You can turn in the challenge by posting your sol
 
 1. Vagrant
 2. Virtualbox
-3. ServerSpec plugin for Vagrant
 
 #### Server requirements
 1. The app has to be started on boot using a process manager(we use Runit but you can try God, Monit, Upstart, SupervisorD or whatever you please)
@@ -49,4 +48,4 @@ If you don't decide to use the included Vagrantfile, send us an IP address of wh
 
 ## Help
 
-Please feel free to ask us any questions if you get yourself in a bind. We believe in a teaching/learning culture where everyone has the right and freedom to ask anything. No question is considered dumb, and we're not going to mark you for asking for help.
+Please feel free to ask us any questions if you get yourself in a bind. We believe in a teaching/learning culture where everyone has the right and freedom to ask anything. No question is considered dumb, and we're more than thrilled to have you asking for help.
