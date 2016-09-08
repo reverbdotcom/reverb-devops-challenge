@@ -57,6 +57,6 @@ Here's how we will test your solution:
 1. `vagrant up`
 2. We will curl the endpoints:
 
-    curl http://192.168.77.7:4567/
-    curl http://192.168.77.7:4567/health
-    curl -XPOST http://192.168.77.7:4567/post?foo=bar
+     curl http://192.168.77.7:4567/
+     curl http://192.168.77.7:4567/health
+     curl -XPOST http://192.168.77.7:4567/post?foo=bar
